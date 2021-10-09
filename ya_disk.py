@@ -13,7 +13,7 @@ from tqdm import tqdm
 from pprint import pprint
 
 
-TOKEN = 'AQAAAAAcaxtmAADLW_LZp6a8bkgOu44HZeA7HsY'
+TOKEN = ''
 
 
 class YaUploader:

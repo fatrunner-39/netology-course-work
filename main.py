@@ -7,7 +7,7 @@ from api_vk import ApiVk
 from ya_disk import YaUploader
 
 id = '62486308'
-TOKEN = 'AQAAAAAcaxtmAADLW_LZp6a8bkgOu44HZeA7HsY'
+TOKEN = ''
 
 
 def send_photos_to_ya_disk(user, password):

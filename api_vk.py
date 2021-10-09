@@ -9,7 +9,7 @@ from tqdm import tqdm
 
 class ApiVk:
 
-    def __init__(self, id=None, token='c9d46cd2f0ec7c9aba23d1fc77a132c7c4532f19bacc8bbd22973e0de7f5381a4e5a5ebb9f00c438825a5'):
+    def __init__(self, id=None, token=''):
         self.id = id,
         self.token = token
 
